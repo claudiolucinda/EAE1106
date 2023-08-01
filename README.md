@@ -24,6 +24,5 @@ Esta é uma lista com os dois principais livros utilizados no curso, sendo que o
 * Tipos de Dados e Expressões
 * Controle de Fluxo, Iteração e Recursão
 * Funções
-* Noções de Programação  Orientada a Objetos
 * Aplicações I: Dados
 * Aplicações II: Visualização de Dados
